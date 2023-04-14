@@ -1,0 +1,19 @@
+{
+  "name": "contract-verification",
+  "version": "1.0.0",
+  "description": "Tutorial on smart contract verification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nwokocha Emeka",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.13.0"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@nomiclabs/hardhat-etherscan": "^3.1.7",
+    "dotenv": "^16.0.3"
+  }
+}
